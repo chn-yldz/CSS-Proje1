@@ -1,1 +1,1 @@
-# CSS-Proje1
+# Patika Css 1.Ödev
